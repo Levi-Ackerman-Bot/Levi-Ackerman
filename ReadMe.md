@@ -20,6 +20,5 @@ The Levi Ackerman Website serves as an elegant and sophisticated platform, metic
             <li>Launch the website and enjoy!</li>
         </ul>
         <h2>Contributing</h2>
-        <p>We welcome contributions from fellow developers! Feel free to submit pull requests with improvements or new features to enhance the Levi Ackerman Website.</p>
-        <h2>License</h2>
-        <p>This website is licensed under the Levi Ackerman Website License. Please review the license file for more details.</p>
+# ⛔️ DEPRECATED ⛔️
+## NO LONGER ACCEPTING REQUESTS AND PEOPLE'S IDEAS. THIS IS OVER
